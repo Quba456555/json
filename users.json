@@ -1,0 +1,17 @@
+[
+    {
+        "username": "admin",
+        "password": "admin123",
+        "role": "admin",
+        "permissions": [
+            "manage_users",
+            "manage_finances"
+        ]
+    },
+    {
+        "username": "employee1",
+        "password": "employee123",
+        "role": "employee",
+        "permissions": []
+    }
+]
